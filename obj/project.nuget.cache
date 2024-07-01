@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TP2gHfTV3N7yHDVWyRSWRA9r841GAqm5FGRPhWtodmpefRk65QFxj5soXcge8Oh6L3i6yxizYY6rqlA2/ZzuXw==",
+  "dgSpecHash": "/wuYnWFgwBUTNRbUKWTwoEmwFFtFjeOxdJhMXJW16DgwLA9vuGOWdSJPKmLx01hnDFFtMAl95G1cs5//BK/1zQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\axlja\\source\\repos\\ProyFinalWeb\\ProyFinalWeb\\ProyFinalWeb.csproj",
+  "projectFilePath": "D:\\Universidad\\2024-1\\Desarrollo aplicaciones web\\proy final\\FinalWeb\\ProyFinalDAW\\ProyFinalWeb\\ProyFinalWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\axlja\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\axlja\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

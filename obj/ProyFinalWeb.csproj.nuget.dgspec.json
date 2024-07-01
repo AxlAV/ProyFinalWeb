@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\axlja\\source\\repos\\ProyFinalWeb\\ProyFinalWeb\\ProyFinalWeb.csproj": {}
+    "D:\\Universidad\\2024-1\\Desarrollo aplicaciones web\\proy final\\FinalWeb\\ProyFinalDAW\\ProyFinalWeb\\ProyFinalWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\axlja\\source\\repos\\ProyFinalWeb\\ProyFinalWeb\\ProyFinalWeb.csproj": {
+    "D:\\Universidad\\2024-1\\Desarrollo aplicaciones web\\proy final\\FinalWeb\\ProyFinalDAW\\ProyFinalWeb\\ProyFinalWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\axlja\\source\\repos\\ProyFinalWeb\\ProyFinalWeb\\ProyFinalWeb.csproj",
+        "projectUniqueName": "D:\\Universidad\\2024-1\\Desarrollo aplicaciones web\\proy final\\FinalWeb\\ProyFinalDAW\\ProyFinalWeb\\ProyFinalWeb.csproj",
         "projectName": "ProyFinalWeb",
-        "projectPath": "C:\\Users\\axlja\\source\\repos\\ProyFinalWeb\\ProyFinalWeb\\ProyFinalWeb.csproj",
+        "projectPath": "D:\\Universidad\\2024-1\\Desarrollo aplicaciones web\\proy final\\FinalWeb\\ProyFinalDAW\\ProyFinalWeb\\ProyFinalWeb.csproj",
         "packagesPath": "C:\\Users\\axlja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\axlja\\source\\repos\\ProyFinalWeb\\ProyFinalWeb\\obj\\",
+        "outputPath": "D:\\Universidad\\2024-1\\Desarrollo aplicaciones web\\proy final\\FinalWeb\\ProyFinalDAW\\ProyFinalWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\axlja\\AppData\\Roaming\\NuGet\\NuGet.Config",
